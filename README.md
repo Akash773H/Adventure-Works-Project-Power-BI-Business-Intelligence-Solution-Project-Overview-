@@ -1,4 +1,4 @@
-# Adventure-Works-Project-Power-BI-Business-Intelligence-Solution-Project-Overview-
+# Adventure-Works-Project-Power-BI-Business-Intelligence-Solution-Project
 Project Overview:
 This project demonstrates the use of Power BI for business intelligence at Adventure Works, a fictional global manufacturing company. The goal was to create a comprehensive dashboard to track KPIs, compare regional performance, analyze product-level trends, and identify high-value customers.
 
