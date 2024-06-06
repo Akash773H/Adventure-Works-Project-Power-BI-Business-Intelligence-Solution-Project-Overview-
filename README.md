@@ -5,13 +5,12 @@ This project demonstrates the use of Power BI for business intelligence at Adven
 Key Steps and Tools:
 
 Data Connection and Transformation:
-
 Connected to raw CSV files using Power BI's Power Query Editor.
 Cleaned and prepared data for analysis.
 Merged and appended queries for comprehensive data sets.
 Built a relational data model using primary and foreign keys.
-DAX Calculations:
 
+DAX Calculations:
 Created measures and calculated columns using DAX.
 Examples include Total Customers and Return Rate.
 Interactive Dashboard Design:
